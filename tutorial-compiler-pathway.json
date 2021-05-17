@@ -1,14 +1,16 @@
 {
-"scenarios": [
-    {
-    "title": "Create your first tutorial",
-    "description": "Learn how to create your first tutorial with the tutorial compiler", 
-    "id": "create-your-own-tutorial"
-    },
-    {
-        "title": "Install the devonfw IDE",
-        "description": "Learn how to setup devonfw IDE", 
-        "id": "devonfw-ide"
-    }
-]
+    "title": "Tutorial Compiler Workshop",
+    "description": "",
+    "scenarios": [
+        {
+        "title": "Create your first tutorial",
+        "description": "Learn how to create your first tutorial with the tutorial compiler", 
+        "id": "create-your-own-tutorial"
+        },
+        {
+            "title": "Install the devonfw IDE",
+            "description": "Learn how to setup devonfw IDE", 
+            "id": "devonfw-ide"
+        }
+    ]
 }
