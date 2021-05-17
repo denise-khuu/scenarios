@@ -2,16 +2,16 @@
     "title": "Tutorial Compiler Workshop",
     "description": "",
     "icon": "",
-    "courses": [
+    "scenarios": [
         {
             "title": "Create your first tutorial",
             "description": "Learn how to create your first tutorial with the tutorial compiler", 
-            "course_id": "create-your-own-tutorial"
+            "id": "create-your-own-tutorial"
         },
         {
             "title": "Install the devonfw IDE",
             "description": "Learn how to setup devonfw IDE", 
-            "course_id": "devonfw-ide"
+            "id": "devonfw-ide"
         }
     ]
 }
