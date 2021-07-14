@@ -5,10 +5,9 @@ It is already cloned in workspace using restoreWorkspace.
 Execute below command for project migration from an older version to the latest version.
 
 
+Please change the folder to &#39;devonfw/workspaces/main/devon4j-app-4tutorial&#39;.
 
-We want to execute the command in a different directory so you have to change your current directory.
-With the next command we also open a new terminal, so you have to execute the command twice 
-`cd devon4j-app-4tutorial `{{execute T1}}. 
+`cd devonfw/workspaces/main/devon4j-app-4tutorial`{{execute T1}}
 
 Run devon java migrate with this bash-command.
 `devon java migrate `{{execute T1}} 
