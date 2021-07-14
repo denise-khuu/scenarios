@@ -2,12 +2,24 @@
   "title": "Migrate a devon4j project to the latest version",
   "description": "",
   "difficulty": "Beginner",
-  "time": "15 Minutes",
+  "time": "30 Minutes",
   "details": {
     "steps": [
       {
         "title": "Execute Migrate Command",
         "text": "step2.md"
+      },
+      {
+        "title": "Execute Migrate Command",
+        "text": "step3.md"
+      },
+      {
+        "title": "Execute Migrate Command",
+        "text": "step4.md"
+      },
+      {
+        "title": "Execute Migrate Command",
+        "text": "step5.md"
       }
     ],
     "intro": {
